@@ -15,7 +15,7 @@ Financial Data Analysis is a Python project that allows you to fetch, analyze, a
 ### Prerequisites
 - Python (3.x recommended)
 - A valid FRED API Key which has to be copied into the main_pythonfile.py file
-- In order for the xlsx file creation process a folder path has to specified in line 37 of the main_pythonfile.py file.
+- In order for the xlsx file creation process a folder path has to specified in line 37 of the main_pythonfile.py file:
    - `folder_path = r''  # Specify the path where the xlsx file should be store`
 - Required Python packages:
   - `pandas`
