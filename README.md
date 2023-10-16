@@ -1,4 +1,4 @@
-# Financial Data Analysis and Exploratory Data Analysis using the Federal Reserve Economic Data (FRED) API
+# Financial Data Analysis and EDA using the Federal Reserve Economic Data (FRED) API
 
 Financial Data Analysis is a Python project that allows you to fetch, analyze, and visualize financial data from the FRED API. This project provides tools for exploring and understanding the dynamics of financial markets.
 
